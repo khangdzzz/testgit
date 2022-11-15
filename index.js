@@ -1,3 +1,7 @@
 const name = "do van khang"
 const name1 = "nguyen thi anh trinh"
 const name2 = "to uyen"
+const student = "a1"
+const student2 = "a2"
+const studnet3 = "a3"
+const student4 = "a4"
